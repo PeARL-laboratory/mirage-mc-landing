@@ -49,7 +49,7 @@ export default function Hero() {
 
           {/* Download links */}
           <div className="flex items-center gap-8">
-            <a href="#" className="text-[18px] font-normal leading-[1.5] text-[#444] underline whitespace-nowrap">
+            <a href="#" className="text-[16px] font-normal leading-[1.5] text-[#444] underline whitespace-nowrap">
               Download Web App
             </a>
             <div className="w-px h-8 bg-[#e0e0e0] shrink-0" />
@@ -57,7 +57,7 @@ export default function Hero() {
               href="https://github.com/arishazakry/mirage-library"
               target="_blank"
               rel="noreferrer"
-              className="text-[18px] font-normal leading-[1.5] text-[#444] underline whitespace-nowrap"
+              className="text-[16px] font-normal leading-[1.5] text-[#444] underline whitespace-nowrap"
             >
               Download Python Library
             </a>
