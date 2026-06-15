@@ -48,11 +48,11 @@ export default function Hero() {
           </div>
 
           {/* Download links */}
-          <div className="flex items-center gap-8">
+          <div className="flex flex-col md:flex-row items-start md:items-center gap-4 md:gap-8">
             <a href="#" className="text-[16px] font-normal leading-[1.5] text-[#444] underline whitespace-nowrap">
               Download Web App
             </a>
-            <div className="w-px h-8 bg-[#e0e0e0] shrink-0" />
+            <div className="hidden md:block w-px h-8 bg-[#e0e0e0] shrink-0" />
             <a
               href="https://github.com/arishazakry/mirage-library"
               target="_blank"
