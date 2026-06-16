@@ -68,7 +68,8 @@ export default function HowToUse() {
         >
           <video
             ref={videoRef}
-            src="/herovideo.mp4"
+            src="https://github.com/PeARL-laboratory/mirage-mc-landing/releases/download/v1/h
+  erovideo.mp4"
             className="absolute inset-0 w-full h-full object-cover"
             loop
             playsInline
