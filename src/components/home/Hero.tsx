@@ -49,7 +49,7 @@ export default function Hero() {
 
           {/* Download links */}
           <div className="flex flex-col md:flex-row items-start md:items-center gap-4 md:gap-8">
-            <a href="#" className="text-[16px] font-normal leading-[1.5] text-[#444] underline whitespace-nowrap">
+            <a href="https://dashboard.mirage-project.org/" className="text-[16px] font-normal leading-[1.5] text-[#444] underline whitespace-nowrap">
               Download Web App
             </a>
             <div className="hidden md:block w-px h-8 bg-[#e0e0e0] shrink-0" />
