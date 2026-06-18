@@ -8,7 +8,7 @@ import logoSrc from '@/assets/logo.png';
 import arrowDropDown from '@/assets/arrow_drop_down.svg';
 
 const DOWNLOAD_OPTIONS = [
-  { label: 'Web App', href: '#' },
+  { label: 'Web App', href: 'https://dashboard.mirage-project.org/' },
   { label: 'Python Library', href: 'https://github.com/arishazakry/mirage-library' },
 ];
 
